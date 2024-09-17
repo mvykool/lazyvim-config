@@ -1,6 +1,7 @@
 -- bootstrap lazy.nvim, LazyVim and your plugins
 require("config.lazy")
 require("ibl").setup()
+
 -- Ensure you're in the correct mode and context for the mappings
 local map = vim.api.nvim_set_keymap
 
