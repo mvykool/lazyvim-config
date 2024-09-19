@@ -114,7 +114,9 @@ local conditions = {
 -- Config
 local config = {
 	options = {
-		-- Disable sections and component separators
+
+		-- Disable sections and component component_separators
+
 		component_separators = "",
 		section_separators = "",
 		theme = {
