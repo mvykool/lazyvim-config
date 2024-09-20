@@ -77,10 +77,12 @@ vim.cmd.colorscheme("fluoromachine")
 -- Eviline config for lualine
 -- Author: shadmansaleh
 -- Credit: glepnir
+
 local lualine = require("lualine")
 
 -- Color table for highlights
 -- stylua: ignore
+
 local colors = {
   bg       = '#202328',
   fg       = '#bbc2cf',
