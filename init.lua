@@ -43,6 +43,7 @@ hooks.register(hooks.type.SCOPE_HIGHLIGHT, hooks.builtin.scope_highlight_from_ex
 local fm = require("fluoromachine")
 
 -- actual color setup
+
 fm.setup({
 	glow = false,
 	theme = "retrowave",
