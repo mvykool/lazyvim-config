@@ -1,3 +1,4 @@
+-- the actual color setup is in init.lua
 return {
 	{
 		"maxmx03/fluoromachine.nvim",
